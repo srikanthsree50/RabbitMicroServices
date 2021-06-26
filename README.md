@@ -1,2 +1,1 @@
-# RabbitMicroServices
-this is rabbitmq with microservices
+# NodeJS_Microservices
